@@ -1,1 +1,1 @@
-In this repository,you will get code related to DSA problems of leetcode and gfg
+This repository contains the code related problems that I solve on leetcode/gfg on daily basis.
